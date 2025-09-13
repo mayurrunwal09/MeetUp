@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\MeetUp\\MeetUp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F79084-31AC-4EB3-A8FF-2BF886A2909C}|MeetUp.Infrastructure\\MeetUp.Infrastructure.csproj|d:\\projects\\meetup\\meetup\\meetup.infrastructure\\services\\service\\childcommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4F79084-31AC-4EB3-A8FF-2BF886A2909C}|MeetUp.Infrastructure\\MeetUp.Infrastructure.csproj|solutionrelative:meetup.infrastructure\\services\\service\\childcommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F79084-31AC-4EB3-A8FF-2BF886A2909C}|MeetUp.Infrastructure\\MeetUp.Infrastructure.csproj|d:\\projects\\meetup\\meetup\\meetup.infrastructure\\services\\service\\commentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4F79084-31AC-4EB3-A8FF-2BF886A2909C}|MeetUp.Infrastructure\\MeetUp.Infrastructure.csproj|solutionrelative:meetup.infrastructure\\services\\service\\commentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F79084-31AC-4EB3-A8FF-2BF886A2909C}|MeetUp.Infrastructure\\MeetUp.Infrastructure.csproj|d:\\projects\\meetup\\meetup\\meetup.infrastructure\\services\\iservice\\ichildcommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4F79084-31AC-4EB3-A8FF-2BF886A2909C}|MeetUp.Infrastructure\\MeetUp.Infrastructure.csproj|solutionrelative:meetup.infrastructure\\services\\iservice\\ichildcommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CEC8ED-9A31-47DF-B7C4-A5C5927E0523}|MeetUp.API\\MeetUp.API.csproj|d:\\projects\\meetup\\meetup\\meetup.api\\controllers\\childcommentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CEC8ED-9A31-47DF-B7C4-A5C5927E0523}|MeetUp.API\\MeetUp.API.csproj|solutionrelative:meetup.api\\controllers\\childcommentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F79084-31AC-4EB3-A8FF-2BF886A2909C}|MeetUp.Infrastructure\\MeetUp.Infrastructure.csproj|d:\\projects\\meetup\\meetup\\meetup.infrastructure\\services\\service\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4F79084-31AC-4EB3-A8FF-2BF886A2909C}|MeetUp.Infrastructure\\MeetUp.Infrastructure.csproj|solutionrelative:meetup.infrastructure\\services\\service\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EE5EAF-AC4B-4C4E-9CCE-1A96AB62FFA9}|MeetUp.Domain\\MeetUp.Domain.csproj|d:\\projects\\meetup\\meetup\\meetup.domain\\viewmodels\\postdetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2EE5EAF-AC4B-4C4E-9CCE-1A96AB62FFA9}|MeetUp.Domain\\MeetUp.Domain.csproj|solutionrelative:meetup.domain\\viewmodels\\postdetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CEC8ED-9A31-47DF-B7C4-A5C5927E0523}|MeetUp.API\\MeetUp.API.csproj|d:\\projects\\meetup\\meetup\\meetup.api\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CEC8ED-9A31-47DF-B7C4-A5C5927E0523}|MeetUp.API\\MeetUp.API.csproj|solutionrelative:meetup.api\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IChildCommentService.cs",
+              "DocumentMoniker": "D:\\Projects\\MeetUp\\MeetUp\\MeetUp.Infrastructure\\Services\\IService\\IChildCommentService.cs",
+              "RelativeDocumentMoniker": "MeetUp.Infrastructure\\Services\\IService\\IChildCommentService.cs",
+              "ToolTip": "D:\\Projects\\MeetUp\\MeetUp\\MeetUp.Infrastructure\\Services\\IService\\IChildCommentService.cs",
+              "RelativeToolTip": "MeetUp.Infrastructure\\Services\\IService\\IChildCommentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T14:16:50.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PostDetailsVM.cs",
+              "DocumentMoniker": "D:\\Projects\\MeetUp\\MeetUp\\MeetUp.Domain\\ViewModels\\PostDetailsVM.cs",
+              "RelativeDocumentMoniker": "MeetUp.Domain\\ViewModels\\PostDetailsVM.cs",
+              "ToolTip": "D:\\Projects\\MeetUp\\MeetUp\\MeetUp.Domain\\ViewModels\\PostDetailsVM.cs",
+              "RelativeToolTip": "MeetUp.Domain\\ViewModels\\PostDetailsVM.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIA7wBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T16:55:25.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChildCommentsController.cs",
+              "DocumentMoniker": "D:\\Projects\\MeetUp\\MeetUp\\MeetUp.API\\Controllers\\ChildCommentsController.cs",
+              "RelativeDocumentMoniker": "MeetUp.API\\Controllers\\ChildCommentsController.cs",
+              "ToolTip": "D:\\Projects\\MeetUp\\MeetUp\\MeetUp.API\\Controllers\\ChildCommentsController.cs",
+              "RelativeToolTip": "MeetUp.API\\Controllers\\ChildCommentsController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAnwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T16:31:41.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "D:\\Projects\\MeetUp\\MeetUp\\MeetUp.API\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "MeetUp.API\\Controllers\\CommentsController.cs",
+              "ToolTip": "D:\\Projects\\MeetUp\\MeetUp\\MeetUp.API\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "MeetUp.API\\Controllers\\CommentsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T05:10:39.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChildCommentService.cs",
+              "DocumentMoniker": "D:\\Projects\\MeetUp\\MeetUp\\MeetUp.Infrastructure\\Services\\Service\\ChildCommentService.cs",
+              "RelativeDocumentMoniker": "MeetUp.Infrastructure\\Services\\Service\\ChildCommentService.cs",
+              "ToolTip": "D:\\Projects\\MeetUp\\MeetUp\\MeetUp.Infrastructure\\Services\\Service\\ChildCommentService.cs",
+              "RelativeToolTip": "MeetUp.Infrastructure\\Services\\Service\\ChildCommentService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwDgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T16:27:24.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommentsService.cs",
+              "DocumentMoniker": "D:\\Projects\\MeetUp\\MeetUp\\MeetUp.Infrastructure\\Services\\Service\\CommentsService.cs",
+              "RelativeDocumentMoniker": "MeetUp.Infrastructure\\Services\\Service\\CommentsService.cs",
+              "ToolTip": "D:\\Projects\\MeetUp\\MeetUp\\MeetUp.Infrastructure\\Services\\Service\\CommentsService.cs",
+              "RelativeToolTip": "MeetUp.Infrastructure\\Services\\Service\\CommentsService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwDgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T06:30:59.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "D:\\Projects\\MeetUp\\MeetUp\\MeetUp.Infrastructure\\Services\\Service\\PostService.cs",
+              "RelativeDocumentMoniker": "MeetUp.Infrastructure\\Services\\Service\\PostService.cs",
+              "ToolTip": "D:\\Projects\\MeetUp\\MeetUp\\MeetUp.Infrastructure\\Services\\Service\\PostService.cs",
+              "RelativeToolTip": "MeetUp.Infrastructure\\Services\\Service\\PostService.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAArwPYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T06:20:45.768Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

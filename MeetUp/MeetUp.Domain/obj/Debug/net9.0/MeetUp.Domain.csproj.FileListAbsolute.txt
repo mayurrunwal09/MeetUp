@@ -1,0 +1,28 @@
+D:\Web API Projects\MeetUp\MeetUp.Domain\bin\Debug\net9.0\MeetUp.Domain.deps.json
+D:\Web API Projects\MeetUp\MeetUp.Domain\bin\Debug\net9.0\MeetUp.Domain.runtimeconfig.json
+D:\Web API Projects\MeetUp\MeetUp.Domain\bin\Debug\net9.0\MeetUp.Domain.dll
+D:\Web API Projects\MeetUp\MeetUp.Domain\bin\Debug\net9.0\MeetUp.Domain.pdb
+D:\Web API Projects\MeetUp\MeetUp.Domain\obj\Debug\net9.0\MeetUp.Domain.csproj.AssemblyReference.cache
+D:\Web API Projects\MeetUp\MeetUp.Domain\obj\Debug\net9.0\MeetUp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web API Projects\MeetUp\MeetUp.Domain\obj\Debug\net9.0\MeetUp.Domain.AssemblyInfoInputs.cache
+D:\Web API Projects\MeetUp\MeetUp.Domain\obj\Debug\net9.0\MeetUp.Domain.AssemblyInfo.cs
+D:\Web API Projects\MeetUp\MeetUp.Domain\obj\Debug\net9.0\MeetUp.Domain.csproj.CoreCompileInputs.cache
+D:\Web API Projects\MeetUp\MeetUp.Domain\obj\Debug\net9.0\MeetUp.Domain.dll
+D:\Web API Projects\MeetUp\MeetUp.Domain\obj\Debug\net9.0\refint\MeetUp.Domain.dll
+D:\Web API Projects\MeetUp\MeetUp.Domain\obj\Debug\net9.0\MeetUp.Domain.pdb
+D:\Web API Projects\MeetUp\MeetUp.Domain\obj\Debug\net9.0\MeetUp.Domain.genruntimeconfig.cache
+D:\Web API Projects\MeetUp\MeetUp.Domain\obj\Debug\net9.0\ref\MeetUp.Domain.dll
+D:\Projects\MeetUp\MeetUp\MeetUp.Domain\bin\Debug\net9.0\MeetUp.Domain.deps.json
+D:\Projects\MeetUp\MeetUp\MeetUp.Domain\bin\Debug\net9.0\MeetUp.Domain.runtimeconfig.json
+D:\Projects\MeetUp\MeetUp\MeetUp.Domain\bin\Debug\net9.0\MeetUp.Domain.dll
+D:\Projects\MeetUp\MeetUp\MeetUp.Domain\bin\Debug\net9.0\MeetUp.Domain.pdb
+D:\Projects\MeetUp\MeetUp\MeetUp.Domain\obj\Debug\net9.0\MeetUp.Domain.csproj.AssemblyReference.cache
+D:\Projects\MeetUp\MeetUp\MeetUp.Domain\obj\Debug\net9.0\MeetUp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MeetUp\MeetUp\MeetUp.Domain\obj\Debug\net9.0\MeetUp.Domain.AssemblyInfoInputs.cache
+D:\Projects\MeetUp\MeetUp\MeetUp.Domain\obj\Debug\net9.0\MeetUp.Domain.AssemblyInfo.cs
+D:\Projects\MeetUp\MeetUp\MeetUp.Domain\obj\Debug\net9.0\MeetUp.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\MeetUp\MeetUp\MeetUp.Domain\obj\Debug\net9.0\MeetUp.Domain.dll
+D:\Projects\MeetUp\MeetUp\MeetUp.Domain\obj\Debug\net9.0\refint\MeetUp.Domain.dll
+D:\Projects\MeetUp\MeetUp\MeetUp.Domain\obj\Debug\net9.0\MeetUp.Domain.pdb
+D:\Projects\MeetUp\MeetUp\MeetUp.Domain\obj\Debug\net9.0\MeetUp.Domain.genruntimeconfig.cache
+D:\Projects\MeetUp\MeetUp\MeetUp.Domain\obj\Debug\net9.0\ref\MeetUp.Domain.dll
