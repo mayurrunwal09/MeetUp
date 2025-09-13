@@ -10,10 +10,10 @@ MeetUp is a social web application where users can create posts, upload photos, 
 - 👤 User authentication and profiles
 
 ## 🛠 Tech Stack
-- **Frontend:** React / Angular / Vue (replace with your stack)
-- **Backend:** Node.js / ASP.NET / Django (replace with your backend)
-- **Database:** MongoDB / SQL Server / MySQL / PostgreSQL
-- **Other Tools:** Tailwind / Bootstrap / Kendo UI (if used)
+- **Frontend:** React 
+- **Backend:** ASP.NET 
+- **Database:** SQL Server 
+- **Other Tools:** Material UI
 
 ## 🚀 Getting Started
 1. Clone the repo:
