@@ -46,7 +46,7 @@ namespace MeetUp.API.Controllers
             return Ok("Comment updated successfully.");
         }
 
-        [HttpDelete("{id}")]
+        [HttpDelete("Delete/{id}")]
         public async Task<IActionResult> Delete(long id)
         {
             var user = await _userManager.GetUserAsync(User);
