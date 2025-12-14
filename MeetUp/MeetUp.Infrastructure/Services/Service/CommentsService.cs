@@ -58,7 +58,7 @@ namespace MeetUp.Infrastructure.Services.Service
             {
                 var comment = await _commentRepository.GetByIdAsync(id);
 
-                if (comment == null || comment.IsDeleted == true)
+                if (comment == null)
                 {
                     _logger.LogWarning("Delete failed: Comment with ID {Id} not found or already deleted.", id);
                     return (false, 404, "Comment not found.");

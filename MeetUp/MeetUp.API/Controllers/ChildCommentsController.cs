@@ -2,6 +2,7 @@
 using MeetUp.Domain.ViewModels;
 using MeetUp.Infrastructure.Repository.ChildComments;
 using MeetUp.Infrastructure.Services.IService;
+using MeetUp.Infrastructure.Services.Service;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
@@ -29,6 +30,15 @@ namespace MeetUp.API.Controllers
             var (statusCode, message) = await _childCommentService.AddChildComments(model, user);
 
             return StatusCode(statusCode, message);
+        }
+
+        [HttpDelete("Delete/{id}")]
+        public async Task<IActionResult> Delete(long id)
+        {
+            var user = await _userManager.GetUserAsync(User);
+            if (user == null) return Unauthorized();
+            await _childCommentService.DeleteChildComments(id, user);
+            return Ok("Child comment deleted.");
         }
     }
 }

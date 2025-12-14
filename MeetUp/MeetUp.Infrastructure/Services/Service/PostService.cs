@@ -174,7 +174,7 @@ namespace MeetUp.Infrastructure.Services.Service
                         Text = c.Text,
                         IsCommentHost = c.UserId == user.Id,
                         ChildComments = childComments
-                        .Where(cc => cc.ParentCommentId == c.Id && cc.PostId == post.Id)
+                        .Where(cc => cc.ParentCommentId == c.Id && cc.PostId == post.Id && cc.IsDeleted != true)
                         .Select(cc => new ChildCommentViewModel
                         {
                             ParentCommentId = c.Id,
